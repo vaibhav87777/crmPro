@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="CRM pro project Suite">
+
+<listeners>
+  	<listener class-name="extentReportListener.ExtentReporterNG" />
+  </listeners>
+
+  <test name="crmproTest">
+    <classes>
+      <class name="tasecases.contactsPageTest"/>
+      <class name="tasecases.loginPageTest"/>
+      <class name="tasecases.calenderPageTest"/>
+      <class name="tasecases.homePageTest"/>
+      <class name="tasecases.dealsPageTest"/>
+      <class name="tasecases.callPageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

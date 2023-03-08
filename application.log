@@ -1,0 +1,74 @@
+
+2023-01-01 17:46:21,483  INFO [main] loginPageTest:38 - open browser and URL
+2023-01-01 17:46:36,519  INFO [main] loginPageTest:38 - open browser and URL
+2023-01-01 17:46:47,032  INFO [main] loginPageTest:38 - open browser and URL
+2023-01-01 17:59:44,895  INFO [main] loginPageTest:39 - open browser and URL
+2023-01-01 18:00:05,141  INFO [main] loginPageTest:39 - open browser and URL
+2023-01-01 18:00:15,525  INFO [main] loginPageTest:39 - open browser and URL
+2023-01-01 18:35:22,701  INFO [main] loginPageTest:39 - open browser and URL
+2023-01-01 18:36:44,088  INFO [main] loginPageTest:39 - open browser and URL
+2023-01-03 00:07:34,507 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-01-03 00:07:34,531 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-01-03 00:07:34,533 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-01-03 00:07:34,534 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-01-03 00:07:34,535 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-01-03 00:07:34,878 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-01-03 00:07:34,878 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-01-03 00:07:34,879 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-01-03 00:07:34,879 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-01-03 00:07:34,879 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-01-03 07:58:32,321  INFO [main] loginPageTest:44 - entering application URL
+2023-01-03 07:58:32,339  WARN [main] loginPageTest:45 - Hey this just a warning message
+2023-01-03 07:58:32,339 FATAL [main] loginPageTest:46 - hey this is just fatal error message
+2023-01-03 07:58:32,339 DEBUG [main] loginPageTest:47 - this is debug message
+2023-01-03 07:58:32,341  INFO [main] loginPageTest:56 - *** starting test case ***
+2023-01-03 07:58:32,342  INFO [main] loginPageTest:57 - ***freeCrmTitleTest***
+2023-01-03 07:58:35,359  INFO [main] loginPageTest:64 - fetched titlt of login page=CRMPRO - CRM software for customer relationship management, sales, and support.
+2023-01-03 07:58:35,360  INFO [main] loginPageTest:69 - *** ending test case***
+2023-01-03 07:58:35,360  INFO [main] loginPageTest:70 - ** freeCrmTitleTest ***
+2023-01-03 07:58:45,658  INFO [main] loginPageTest:44 - entering application URL
+2023-01-03 07:58:45,658  WARN [main] loginPageTest:45 - Hey this just a warning message
+2023-01-03 07:58:45,658 FATAL [main] loginPageTest:46 - hey this is just fatal error message
+2023-01-03 07:58:45,658 DEBUG [main] loginPageTest:47 - this is debug message
+2023-01-03 07:58:55,844  INFO [main] loginPageTest:44 - entering application URL
+2023-01-03 07:58:55,844  WARN [main] loginPageTest:45 - Hey this just a warning message
+2023-01-03 07:58:55,845 FATAL [main] loginPageTest:46 - hey this is just fatal error message
+2023-01-03 07:58:55,845 DEBUG [main] loginPageTest:47 - this is debug message
+2023-01-03 07:59:04,413  INFO [main] loginPageTest:111 - ****** Browser is closed *******
+2023-01-03 08:01:42,457 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-01-03 08:01:42,458 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-01-03 08:01:42,459 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-01-03 08:01:42,460 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-01-03 08:01:42,476 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-01-03 08:01:42,795 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-01-03 08:01:42,795 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-01-03 08:01:42,796 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-01-03 08:01:42,796 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-01-03 08:01:42,796 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-01-03 08:10:23,992 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-01-03 08:10:24,003 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-01-03 08:10:24,004 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-01-03 08:10:24,005 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-01-03 08:10:24,005 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-01-03 08:10:24,205 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-01-03 08:10:24,206 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-01-03 08:10:24,206 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-01-03 08:10:24,206 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-01-03 08:10:24,207 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-01-06 22:44:51,622  INFO [main] loginPageTest:44 - entering application URL
+2023-01-06 22:44:51,640  WARN [main] loginPageTest:45 - Hey this just a warning message
+2023-01-06 22:44:51,641 FATAL [main] loginPageTest:46 - hey this is just fatal error message
+2023-01-06 22:44:51,641 DEBUG [main] loginPageTest:47 - this is debug message
+2023-01-06 22:44:51,659  INFO [main] loginPageTest:56 - *** starting test case ***
+2023-01-06 22:44:51,659  INFO [main] loginPageTest:57 - ***freeCrmTitleTest***
+2023-01-06 22:44:54,675  INFO [main] loginPageTest:64 - fetched titlt of login page=CRMPRO - CRM software for customer relationship management, sales, and support.
+2023-01-06 22:44:54,678  INFO [main] loginPageTest:69 - *** ending test case***
+2023-01-06 22:44:54,678  INFO [main] loginPageTest:70 - ** freeCrmTitleTest ***
+2023-01-06 22:45:16,277  INFO [main] loginPageTest:44 - entering application URL
+2023-01-06 22:45:16,278  WARN [main] loginPageTest:45 - Hey this just a warning message
+2023-01-06 22:45:16,278 FATAL [main] loginPageTest:46 - hey this is just fatal error message
+2023-01-06 22:45:16,278 DEBUG [main] loginPageTest:47 - this is debug message
+2023-01-06 22:45:47,046  INFO [main] loginPageTest:44 - entering application URL
+2023-01-06 22:45:47,046  WARN [main] loginPageTest:45 - Hey this just a warning message
+2023-01-06 22:45:47,047 FATAL [main] loginPageTest:46 - hey this is just fatal error message
+2023-01-06 22:45:47,047 DEBUG [main] loginPageTest:47 - this is debug message

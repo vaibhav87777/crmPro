@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [CRM pro project Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="extentReportListener.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="crmproTest(failed)">
+    <classes>
+      <class name="tasecases.dealsPageTest">
+        <methods>
+          <include name="verifyTextMessageOfTypeHelPTest"/>
+          <include name="tearDown"/>
+          <include name="logOut"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- tasecases.dealsPageTest -->
+      <class name="tasecases.contactsPageTest">
+        <methods>
+          <include name="logOut"/>
+          <include name="selectContextTest"/>
+          <include name="setUp"/>
+          <include name="selectMultipleContactTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- tasecases.contactsPageTest -->
+      <class name="tasecases.callPageTest">
+        <methods>
+          <include name="tearUp"/>
+          <include name="verifyLabelOnCallPage"/>
+          <include name="verifyTitleOfCallPage"/>
+          <include name="tearDown"/>
+          <include name="verifyaddedInformation"/>
+          <include name="logOut"/>
+        </methods>
+      </class> <!-- tasecases.callPageTest -->
+    </classes>
+  </test> <!-- crmproTest(failed) -->
+</suite> <!-- Failed suite [CRM pro project Suite] -->
